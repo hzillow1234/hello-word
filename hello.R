@@ -1,1 +1,1 @@
-print("hello world", quote=F)
+print("hello world", quote=1)
